@@ -1,8 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = true
-	ignorecase = true
-	precomposeunicode = true
-[remote "origin"]
-	url = https://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@github.com/iamvictorabedi/bash-master.git
